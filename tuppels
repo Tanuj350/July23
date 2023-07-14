@@ -1,0 +1,6 @@
+fruits=('apple','banana','mango','watermelon')
+print(fruits)
+print(len(fruits))
+print(type(fruits))
+tuple1=("mango","sweet","summers")
+print(tuple1)
